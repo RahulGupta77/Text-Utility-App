@@ -12,11 +12,11 @@ TextUtils is a powerful text utility app that simplifies various text-related ta
 
 ## Installation
 
-No installation is required to use TextUtils. Simply visit the live app on [Netlify](https://www.example.com) and start enhancing your text!
+No installation is required to use TextUtils. Simply visit the live app on [Netlify](https://rahultextutil.netlify.app/) and start enhancing your text!
 
 ## Usage
 
-1. Access the app using the provided link: [TextUtils](https://www.example.com)
+1. Access the app using the provided link: [TextUtils](https://rahultextutil.netlify.app/)
 
 2. Enter or paste your text into the text input area.
 
